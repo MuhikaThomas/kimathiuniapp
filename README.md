@@ -28,6 +28,6 @@ Its so clumpsy going every time to the school site to check whatsup or anything 
 *You Don't Know Your Lecturer {Lecturer details and contacts}<br/>
 
 <p/>The app is only for Android 4.0 and above.
-
+<p/>
 
 <sup>Done In Loving Memory of George Kimani Nderitu </sup>
