@@ -27,7 +27,11 @@ Its so clumpsy going every time to the school site to check whatsup or anything 
 *Schedule {ToRead} with notification,add reminder for assignment submition<br/>
 *You Don't Know Your Lecturer {Lecturer details and contacts}<br/>
 
+##ScreenShots
+![alt tag](https://raw.githubusercontent.com/denzelwamburu/kimathiuniapp/master/www/img/login.png)
+![alt tag](https://raw.githubusercontent.com/denzelwamburu/kimathiuniapp/master/www/img/signup.png)
+
 <p/>The app is only for Android 4.0 and above.
 <p/>
-
+<br/>
 <sup>Done In Loving Memory of George Kimani Nderitu </sup>
