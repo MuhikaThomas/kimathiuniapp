@@ -1,4 +1,4 @@
-angular.module('bucketList', ['ionic', 'firebase', 'bucketList.controllers'])
+angular.module('bucketList', ['ionic', 'ionMdInput', 'firebase', 'bucketList.controllers'])
 
 .run(function($ionicPlatform, $rootScope, $firebaseAuth, $firebase, $window, $ionicLoading) {
     $ionicPlatform.ready(function() {
